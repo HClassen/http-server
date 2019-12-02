@@ -1,0 +1,62 @@
+started server on port 8080
+accepted new connection from [127.0.0.1]
+http_server.c:166:walk_closing:(): closing
+util.c:286:timer_set:(): heap remove
+http_server.c:166:walk_closing:(): closing
+http_server.c:166:walk_closing:(): closing
+util.c:286:timer_set:(): heap remove
+http_server.c:166:walk_closing:(): closing
+http_server.c:127:get_timeout:(): timeout loop
+http_server.c:141:get_timeout:(): heap remove
+http_server.c:166:walk_closing:(): closing
+util.c:299:timer_remove:(): heap remove
+http_server.c:175:walk_closing:(): heap remove
+accepted new connection from [127.0.0.1]
+http_server.c:166:walk_closing:(): closing
+util.c:286:timer_set:(): heap remove
+http_server.c:166:walk_closing:(): closing
+http_server.c:166:walk_closing:(): closing
+util.c:286:timer_set:(): heap remove
+http_server.c:166:walk_closing:(): closing
+http_server.c:127:get_timeout:(): timeout loop
+http_server.c:141:get_timeout:(): heap remove
+http_server.c:166:walk_closing:(): closing
+util.c:299:timer_remove:(): heap remove
+http_server.c:175:walk_closing:(): heap remove
+accepted new connection from [127.0.0.1]
+http_server.c:166:walk_closing:(): closing
+util.c:286:timer_set:(): heap remove
+http_server.c:166:walk_closing:(): closing
+http_server.c:166:walk_closing:(): closing
+util.c:286:timer_set:(): heap remove
+http_server.c:166:walk_closing:(): closing
+http_server.c:127:get_timeout:(): timeout loop
+http_server.c:141:get_timeout:(): heap remove
+http_server.c:166:walk_closing:(): closing
+util.c:299:timer_remove:(): heap remove
+http_server.c:175:walk_closing:(): heap remove
+accepted new connection from [127.0.0.1]
+http_server.c:166:walk_closing:(): closing
+accepted new connection from [127.0.0.1]
+http_server.c:166:walk_closing:(): closing
+util.c:286:timer_set:(): heap remove
+http_server.c:166:walk_closing:(): closing
+http_server.c:166:walk_closing:(): closing
+util.c:286:timer_set:(): heap remove
+http_server.c:166:walk_closing:(): closing
+accepted new connection from [127.0.0.1]
+http_server.c:166:walk_closing:(): closing
+util.c:286:timer_set:(): heap remove
+http_server.c:166:walk_closing:(): closing
+http_server.c:166:walk_closing:(): closing
+util.c:286:timer_set:(): heap remove
+http_server.c:166:walk_closing:(): closing
+accepted new connection from [127.0.0.1]
+http_server.c:166:walk_closing:(): closing
+util.c:286:timer_set:(): heap remove
+http_server.c:166:walk_closing:(): closing
+http_server.c:166:walk_closing:(): closing
+util.c:286:timer_set:(): heap remove
+http_server.c:166:walk_closing:(): closing
+http_server.c:127:get_timeout:(): timeout loop
+http_serve

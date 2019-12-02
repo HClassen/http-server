@@ -1,0 +1,10 @@
+main struct -> queue of handlers
+            -> timer heap
+            -> array fd handlers 
+
+
+array fds 
+
+                          +-> accepting new connection -> creates client connection
+array[i] -> fd handler -> |
+                          +-> client connection -> timer in heap
