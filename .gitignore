@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 .vscode/
 src/log/
 src/old/
@@ -11,6 +12,8 @@ src/test
 
 src/resources
 =======
+=======
+>>>>>>> decfae29b9334fb1f9d054aabd0016182797b707
 # Prerequisites
 *.d
 
@@ -63,4 +66,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+<<<<<<< HEAD
+>>>>>>> decfae29b9334fb1f9d054aabd0016182797b707
+=======
 >>>>>>> decfae29b9334fb1f9d054aabd0016182797b707
